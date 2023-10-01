@@ -4,12 +4,12 @@ Coded by Sam Bryan
 
 ## Demo
 
-[Play the Game](https://samueldavidbryan.github.io/planar-puzzle/)
+[Play a live web demo of the game](https://samueldavidbryan.github.io/planar-puzzle/)
 
 
 ## Scripts
 
-You can run from the project directory:
+Alternatively, to run on your local machine, run from the project directory:
 
 ### `npm start`
 
